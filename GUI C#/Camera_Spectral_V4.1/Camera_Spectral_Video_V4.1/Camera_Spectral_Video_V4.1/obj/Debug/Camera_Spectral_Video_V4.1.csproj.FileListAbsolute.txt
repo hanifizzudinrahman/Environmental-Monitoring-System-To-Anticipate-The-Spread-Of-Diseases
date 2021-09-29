@@ -1,0 +1,10 @@
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.1.csproj.AssemblyReference.cache
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.1.Properties.Resources.resources
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.1.csproj.GenerateResource.cache
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.1.csproj.CoreCompileInputs.cache
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.Form_V3.resources
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\bin\Debug\Camera_Spectral_Video_V4.1.exe.config
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\bin\Debug\Camera_Spectral_Video_V4.1.exe
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\bin\Debug\Camera_Spectral_Video_V4.1.pdb
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.1.exe
+C:\_MaxLimitProject_\Camera_Spectral_V4.1\Camera_Spectral_Video_V4.1\Camera_Spectral_Video_V4.1\obj\Debug\Camera_Spectral_Video_V4.1.pdb
